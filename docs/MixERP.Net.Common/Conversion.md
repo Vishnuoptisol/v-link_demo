@@ -444,7 +444,7 @@ byte[] jpegData = Conversion.ConvertImageToByteArray(photo, ImageFormat.Jpeg);
 ## Dependencies
 
 This class depends on several .NET system namespaces as well as the following MixERP components:
-- [Parameters.cs](MixERP.Net.Common/Helpers/Parameters.md) (commented out in the code)
+- [Parameters.cs](Helpers/Parameters) (commented out in the code)
 
 ## Notes
 
